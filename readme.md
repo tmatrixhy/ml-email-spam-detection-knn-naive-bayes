@@ -30,8 +30,6 @@ python detect-spam.py
 ```
 
 # prompt
-
-# prompt
 ![Prompt 1](https://github.com/tmatrixhy/ml-email-spam-detection-knn-naive-bayes/blob/master/prompt1.jpg)
 ![Prompt 2](https://github.com/tmatrixhy/ml-email-spam-detection-knn-naive-bayes/blob/master/prompt2.jpg)
 ![Prompt 3](https://github.com/tmatrixhy/ml-email-spam-detection-knn-naive-bayes/blob/master/prompt3.jpg)
